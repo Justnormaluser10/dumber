@@ -76,7 +76,7 @@
             font-size: 24px;
         }
 }
-@media (min-width: 6001px){
+@media (min-width: 400px){
     .navbar {
         height: 50px;
         width: 100%;
